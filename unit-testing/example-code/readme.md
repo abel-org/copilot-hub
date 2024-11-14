@@ -46,7 +46,7 @@ This project is designed as a **tool for creating unit tests** with GitHub Copil
 
 3. **Set Up for Unit Testing**:
    - This project is optimized for JavaScript unit testing using popular frameworks like **Jest** or **Mocha**.
-   - Import the calculator functions from `calculator.js` in your test file to target each operation for unit testing.
+   - Import the calculator functions from `script.js` in your test file to target each operation for unit testing.
 
 4. **Generating Unit Tests with Copilot**:
    - Open your JavaScript test file in a supported editor like Visual Studio Code.
@@ -69,8 +69,8 @@ This project is designed as a **tool for creating unit tests** with GitHub Copil
 ## File Structure
 
 - `index.html`: The main HTML file containing the structure of the calculator interface.
-- `style.css`: CSS file for styling the calculator interface.
-- `calculator.js`: JavaScript file containing the core calculator functions (addition, subtraction, multiplication, division).
+- `styles.css`: CSS file for styling the calculator interface.
+- `script.js`: JavaScript file containing the core calculator functions (addition, subtraction, multiplication, division).
 - `tests/`: Directory (optional) for storing test files if using a testing framework like Jest or Mocha.
 
 ---
